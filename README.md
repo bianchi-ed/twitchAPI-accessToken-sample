@@ -27,4 +27,6 @@ $ node index.js
 ```
 
 
-### 3. Save Token
+### 3. Save token
+
+![image](https://github.com/bianchi-ed/twitchAPI-token-generator/assets/134458207/950e8b94-dd4b-4161-958b-af6b9c189519)
