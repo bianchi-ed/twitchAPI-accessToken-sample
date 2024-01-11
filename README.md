@@ -1,4 +1,4 @@
-A simple Node.js project containing a single method to fetch Twitch's API Access Token 
+A simple Node.js project containing a single method to get Twitch's API Access Token 
 
 
 ## How to use this
