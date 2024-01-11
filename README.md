@@ -18,7 +18,7 @@ $ npm install
 If you don't know what these information are, please check https://dev.twitch.tv/docs/authentication/
 
 
-### 2. Run project
+### 3. Run project
 
 ```bash
 #Run the command on project's root folder
@@ -27,6 +27,6 @@ $ node index.js
 ```
 
 
-### 3. Save token
+### 4. Save token
 
 ![image](https://github.com/bianchi-ed/twitchAPI-token-generator/assets/134458207/950e8b94-dd4b-4161-958b-af6b9c189519)
