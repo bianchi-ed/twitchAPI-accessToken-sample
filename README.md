@@ -15,7 +15,7 @@ $ npm install
 
 ![image](https://github.com/bianchi-ed/twitchAPI-token-generator/assets/134458207/0009542f-5bfa-40d8-9e58-8defb2f06e0e)
 
-If you don't know what these information are, please check https://dev.twitch.tv/docs/authentication/
+If you don't know what these information are, check https://dev.twitch.tv/docs/authentication/
 
 
 ### 3. Run project
