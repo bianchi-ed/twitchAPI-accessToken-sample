@@ -3,7 +3,7 @@ Node.js project containing a single method to get Twitch's API Access Token
 
 ## How to use this
 
-### 1. Install Modules
+### 1. Clone project and install Modules
 
 ```bash
 #Run the command on project's root folder
