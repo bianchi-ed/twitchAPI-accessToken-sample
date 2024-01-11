@@ -1,4 +1,4 @@
-Node.js project containing a single method to get Twitch's API Access Token 
+Node.js project containing a single method to get Twitch's API Access Token.
 
 
 ## How to use this
@@ -31,4 +31,4 @@ $ node index.js
 
 ![image](https://github.com/bianchi-ed/twitchAPI-token-generator/assets/134458207/950e8b94-dd4b-4161-958b-af6b9c189519)
 
-Save the token and use wherever you need :)
+Save the token and use wherever you need.
