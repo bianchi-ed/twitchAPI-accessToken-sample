@@ -25,8 +25,6 @@ You can get this information navigating to https://dev.twitch.tv/console and sel
 ### 3. Run project
 
 ```bash
-#Run the command on project's root folder
-
 $ node index.js
 ```
 
