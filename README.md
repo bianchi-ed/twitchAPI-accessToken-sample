@@ -1,4 +1,4 @@
-#twitchAPI-acessToken-node.js
+# twitchAPI-acessToken-node.js
 
 Node.js project containing a single method to get Twitch's API Access Token.
 
